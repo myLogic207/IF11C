@@ -1,4 +1,4 @@
-
+"""Programm to print and change parking spaces"""
 def print_all_status():
     """Prints the status of all parking spaces"""
     counter = 1
