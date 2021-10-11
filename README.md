@@ -1,6 +1,6 @@
 # Klassenrepository der IF11C
 
-## Eine täglich aktualieserte mitschrift der Berufschule (dateien inlusive)
+## Eine täglich aktualieserte mitschrift der Berufschule (dateien inklusive)
 
 Freut mich, dass du auch mal hier vorbeischaust.
 Diese Repository ist **nur** zur internen verwendung der IF11C bestimmt, für das teilen mit anderen schuldest du mir automatisch einen Keks.
