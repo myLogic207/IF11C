@@ -39,13 +39,13 @@ Task: [Worksheet1]:()
 
 ### 2. Rewrite the following programming steps in the correct order
 
-4. Analyse the problem
-5. Design the Programm
-6. Write the Code
-7. Compile the Programm
-8. Get Feedback from the users
-9. Train the users
-10. Get feedback from the users
+4. Analyse the problem\
+5. Design the Programm\
+6. Write the Code\
+7. Compile the Programm\
+8. Get Feedback from the users\
+9. Train the users\
+10. Get feedback from the users\
 11. Provide documentation (ongoing process)
 
 ### 3. Match the definitions on the right to the corresponding basic programming terms on the left
@@ -72,24 +72,24 @@ Task: [Worksheet1]:()
 |6. The Hothouse people were eager to buy Sleekware.                                                 |    |  X  |
 |7. There is nothing Tom can do or suggest to help Jerry with the problem.                           |    |  X  |
 
-**Jerry**: Uh, Tom have you got a minute?
-**Tom**: Well …
-**Jerry**: Look, I know you’re busy and I wouldn’t bother you if the Hothouse people weren’t breaking down my door, but …
-**Tom**: That’s OK, Jerry. No problem. Come in and have a seat. I suppose it’s about the appliance design software we put together for them, that *Multipurpose* program.
-**Jerry**: That’s right – Sleekware we called it.
-**Tom**: So?
-**Jerry**: Well, they really like Sleekware’s *user interface* - it’s faster and more stable than the parent program. They only wish they’d had it all along. It would have saved them a lot of time and *hassle*. The thing is…
-**Tom**: Out with it.
-**Jerry**: It’s the product planning part of the program. When they try to print their cost calculations they get *garbled output*.
-**Tom**: The printing routines we used are absolutely standard and were *thoroughly* tested.
-**Jerry**: I realize that but I’m getting a lot of *flak* from these Hothouse people – hotheads would be a better name for them. Can’t you do some kind of work around?
-**Tom**: That’s not the point. It would be a waste of time and energy to try and doctor up a piece of perfectly sound software. When we were there the program ran *smoothly* and they had no complaints. The question is: Have they changed anything since?
-**Jerry**: Yes, you remember they said they wanted to invest in a couple of new printers and print servers.
-**Tom**: And what did they end up buying?
-**Jerry**: Quickie Print.
-**Tom**: Well, no wonder they’re having trouble. I *recommended* Jewel Packets. If they’d followed my advice and invested a few more hundred in decent hardware they wouldn’t be having these problems. We should have *pushed the point* more.
-**Jerry**: Maybe, but it was a hard sell. If we’d made it a *condition*, I’m afraid we would have *lost the contract* .
-**Tom**: Could be but it’s too late now. My only suggestion at this point would be to lend them a printer and print server. If the software runs smoothly – and I’m sure it will – it would prove I’m right and that it’s their hardware and not our program that’s at fault.
+**Jerry**: Uh, Tom have you got a minute?\
+**Tom**: Well …\
+**Jerry**: Look, I know you’re busy and I wouldn’t bother you if the Hothouse people weren’t breaking down my door, but …\
+**Tom**: That’s OK, Jerry. No problem. Come in and have a seat. I suppose it’s about the appliance design software we put together for them, that *Multipurpose* program.\
+**Jerry**: That’s right – Sleekware we called it.\
+**Tom**: So?\
+**Jerry**: Well, they really like Sleekware’s *user interface* - it’s faster and more stable than the parent program. They only wish they’d had it all along. It would have saved them a lot of time and *hassle*. The thing is…\
+**Tom**: Out with it.\
+**Jerry**: It’s the product planning part of the program. When they try to print their cost calculations they get *garbled output*.\
+**Tom**: The printing routines we used are absolutely standard and were *thoroughly* tested.\
+**Jerry**: I realize that but I’m getting a lot of *flak* from these Hothouse people – hotheads would be a better name for them. Can’t you do some kind of work around?\
+**Tom**: That’s not the point. It would be a waste of time and energy to try and doctor up a piece of perfectly sound software. When we were there the program ran *smoothly* and they had no complaints. The question is: Have they changed anything since?\
+**Jerry**: Yes, you remember they said they wanted to invest in a couple of new printers and print servers.\
+**Tom**: And what did they end up buying?\
+**Jerry**: Quickie Print.\
+**Tom**: Well, no wonder they’re having trouble. I *recommended* Jewel Packets. If they’d followed my advice and invested a few more hundred in decent hardware they wouldn’t be having these problems. We should have *pushed the point* more.\
+**Jerry**: Maybe, but it was a hard sell. If we’d made it a *condition*, I’m afraid we would have *lost the contract*.\
+**Tom**: Could be but it’s too late now. My only suggestion at this point would be to lend them a printer and print server. If the software runs smoothly – and I’m sure it will – it would prove I’m right and that it’s their hardware and not our program that’s at fault.\
 **Jerry**: Good, that’s a  fair offer  - I’ll get back to you on that.
 
 ## Programming Logic
