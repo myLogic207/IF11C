@@ -103,8 +103,18 @@ Service Operation:  Bereitstellung und einbringung von Services
 
 ### 1.2.5 Übungsaufgaben
 
-**1. Aufgabe**
-as
-**2. Aufgabe**
+#### **1. Aufgabe**
+
+- Service Availability-Management
+- Service Level Management
+- Service-Portfolio-Management
+- Service-Continuity-Management
+- Bussiness-Reletionship-Management
+- Service-Capacity-Management
+- Service-Security-Management
+- Requirenment Engineering
+- Service-Catalogue-Management
+
+#### **2. Aufgabe**
 
 ---
