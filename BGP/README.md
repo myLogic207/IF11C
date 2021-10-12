@@ -55,7 +55,7 @@ ITIL4: Mittel, um die gemeinsame Wertschöpfung (Value-Co-Creation) zu ermöglic
 
 ### 1.2.1 Service Management
 
-```
+```t
 "Managen bedeutet, ein umfangreiches Fachgebiet besonders gut zu organisieren und zu bewältigen und aus den Inputs einen möglichst guten Output zu erzeugen"
 ```
 
@@ -82,28 +82,29 @@ Service Operation:  Bereitstellung und einbringung von Services
 
 ### 1.2.4 Management-Teilbereiche und Prozesse im IT-Servicemanagement
 
- - Service-Level-Management
- - Requirements Engineering
- - Incident-Management
- - Service-Portfolio-Management
- - Service-Capacity-Management
- - Data-Management
- - Service-Availability-Management
- - Change Management
- - Problem-Management
- - Continual-Service-Improvement-Management
- - Information-Security Management
- - Service-Continuity-Management
- - Service-Catalouge Management
- - Access-Management
- - Requirements Engineering
- - Request Fulfillment
- - Knowledge-Management
- - Bussines-Releationship-Management
+- Service-Level-Management
+- Requirements Engineering
+- Incident-Management
+- Service-Portfolio-Management
+- Service-Capacity-Management
+- Data-Management
+- Service-Availability-Management
+- Change Management
+- Problem-Management
+- Continual-Service-Improvement-Management
+- Information-Security Management
+- Service-Continuity-Management
+- Service-Catalouge Management
+- Access-Management
+- Requirements Engineering
+- Request Fulfillment
+- Knowledge-Management
+- Bussines-Releationship-Management
 
 ### 1.2.5 Übungsaufgaben
-**1. Aufgabe**
 
+**1. Aufgabe**
+as
 **2. Aufgabe**
 
 ---
