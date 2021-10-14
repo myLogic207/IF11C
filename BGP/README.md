@@ -1,5 +1,18 @@
 # BGP - Mitschrift
 
+- [BGP - Mitschrift](#bgp---mitschrift)
+  - [Services](#services)
+    - [1.1 Services im IT-Bereich unterscheiden](#11-services-im-it-bereich-unterscheiden)
+      - [1.1.2 Services im IT-Bereich](#112-services-im-it-bereich)
+  - [1.2 Service-Management-Arten unterscheiden](#12-service-management-arten-unterscheiden)
+    - [1.2.1 Service Management](#121-service-management)
+    - [1.2.2 Eintelung in Phasen nach ITIL Standard 3](#122-eintelung-in-phasen-nach-itil-standard-3)
+    - [1.2.3 Management-Systeme](#123-management-systeme)
+    - [1.2.4 Management-Teilbereiche und Prozesse im IT-Servicemanagement](#124-management-teilbereiche-und-prozesse-im-it-servicemanagement)
+    - [1.2.5 Übungsaufgaben](#125-übungsaufgaben)
+      - [**1. Aufgabe**](#1-aufgabe)
+      - [**2. Aufgabe**](#2-aufgabe)
+
 ## Services
 
 ### 1.1 Services im IT-Bereich unterscheiden
