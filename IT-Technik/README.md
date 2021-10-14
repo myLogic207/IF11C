@@ -1,5 +1,18 @@
 # IT-Technik
 
+- [IT-Technik](#it-technik)
+  - [Klassenmitschrift IF11C IT-TEC11](#klassenmitschrift-if11c-it-tec11)
+  - [4.10.2021](#4102021)
+    - [**Wie realisieren wir die Torüberwachung des AHN?**](#wie-realisieren-wir-die-torüberwachung-des-ahn)
+    - [**Unterschied Lastenheft - Pflichtenheft:**](#unterschied-lastenheft---pflichtenheft)
+    - [**Kriterien für ein Cyberphysisches System (min. 6 Stück)**](#kriterien-für-ein-cyberphysisches-system-min-6-stück)
+    - [**Beispiel für CP-Teilsysteme (Smart City Light Barcelona)**](#beispiel-für-cp-teilsysteme-smart-city-light-barcelona)
+  - [08.10.2021](#08102021)
+  - [12.10.2021](#12102021)
+    - [**Robustheit**](#robustheit)
+    - [**Härtung**](#härtung)
+    - [**Besonderheiten/Unterschiede zwischen Linux und Windows**](#besonderheitenunterschiede-zwischen-linux-und-windows)
+
 ## Klassenmitschrift IF11C IT-TEC11
 
 ## 4.10.2021
