@@ -60,8 +60,8 @@ nennt man "Projekt"
 #### 1.1.4 IT-Projekte
 
 1. nach Art
-   - Entwicklungsprojekte (Strategie-oder Innovationsprojekte sowie Eigenentwicklungen) 
-   - Sanierungs-/Wartungsprojekte 
+   - Entwicklungsprojekte (Strategie-oder Innovationsprojekte sowie Eigenentwicklungen)
+   - Sanierungs-/Wartungsprojekte
    - Migrations-Integrationsprojekte
    - Einführungsprojekte
    - Upgrade-Projekte
@@ -79,6 +79,33 @@ nennt man "Projekt"
    - Bürostandort neu Aufbauen
    - Cloud-Projekte
 
+> Warum scheitern so viele (IT-)Projekte in der Praxis:
+>  
+> - Meilensteine verschieben sich nach hinten -> mehr Zeit wird benötigt
+> - Resourcenknappheit
+> - Kosten werden unterschätzt
+> - Lieferschwierigkeiten inkl. Hardware kommt defekt an
+> Vorstellungen und erwartungen ändern sich, sodass das Projekt hinfällig wird
+> - Personelle Veränderungen -> Projektdurchführung wird unmöglich
+> - Widerstand der MA
+
+Typische Probleme bei:
+
+1. Digitalen Standardprojekten
+   Definition: Standardprojekte können auf reiche Erfahrung zurückgreifen und deshalb standardisiert und einfach abgewickelt werden.
+   Bei digitalen Standardprojekten sindProbleme aus falsch verstandenem Erwartungsmanagement sehr häufig, z.B. Standard bereits veraltet; zu hohe Komplexität; Zeitdruck durch Arbeitgeber und Verschleppung von Entscheidungen durch zu viel Tagesgeschäft
+
+2. Digitalen Akzeptanzprojekten
+   Definition: Akzeptanzprobleme fordern eine Verhaltensänderung der Betroffenen. Bei digitalen Akzeptanzprojekten überwiegen unternehmenstrategische, organisatorische und führungstechnische Hemmnisse, z.B. langwierige Entscheidungsprozess in den Führungsebenen; große Veränderungswiederstände und zu geringe Mitwirkleistungen von Mitarbeiter.
+
+3. Digitalen Pionirprojekten
+   Definition: Pionierprojekte sind Pilotprojekte, die völlig neue Standards setzen. Sie sind meist sehr risikoreich, der Aufgabenumfang ist nur schwer einzuschätzen und man kann nur auf geringe Erfahrungswerte zurückgreifen.
+   Bei digitalen Pionierprojekten überwiegen Probleme im Umgang mit der neuen Technologie und Anbindungsprobleme mit der vorhandenen IT-Landschaft, z.B. fehlendes Know-How; Problem werden in die nächste Phase verschoben oder unrealistische Zielvorstellungen.
+
+4. Digitalen Disruptorenprojekten
+   Definition: Neuerungen verdrängen bereits existierende Produkte und Dienstleistungen vom Markt.
+   Bei Digitalen Disruptionsprojekten überweigen Probleme im Umgang mit der neuen Technologie, dem Zeit- und Wettbewerbsdruck, dem distruptiven Auftrag sowie den zu hoch gesteckten, ambitionierten Zielen der Geschäftsleitung, z.B. unterschiedliche Vorstellungen des Managements und der Investoren; technische Herausforderung in der Umsetzung und zu spätes Erkennen von Risiken
+
 #### 1.1.5 Abschlussprojekt in der IT-Ausbildung
 
 (wird erstmal übersprungen)
@@ -94,5 +121,20 @@ Vorgehensweisen in der IT:
 - Extreme Programming (XP)
 - Spiralmodell
 - Prototyping
+
+#### 1.1.7 Beteiligte des Projektmanagements
+
+- Investoren
+- Abteilungsleiter
+- Arbeitgeber
+- Nutzer
+- Lieferanten
+- Kunden
+- Öffentlichkeit
+- Gesetzgeber
+- Übrige Behörden
+- Medien
+
+#### 1.1.8 Projekt-Schneeflocke
 
 ---
