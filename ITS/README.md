@@ -121,12 +121,12 @@ und jeweils eine OU für die Abteilung**
 
 **Wichtiger Befehl**: ipconfig bzw. ipconfig /all
 Dynamische Zuweiseung:
-  Automatische Zuweisung einer IP-Adr. aus einem Pool von Adr.
+  Automatische Zuweisung einer IP-Adr. aus einem Pool von Adr.\
 **Statische Zuweisung**:
   Zuweisung einer festen IP-Adr. via *Reservierung* mit hilfe der MAC-Adr.
 
 **Weitere Stichworte**:
-  APIPA-Adresse (Automatic Private IP Adressing) - 169.254.0.0
+  APIPA-Adresse (Automatic Private IP Adressing) - 169.254.0.0\
   Broadcastdomäne
 
 Das Abrufen einer IP-Adresse erfolgt nach einem festen vorgegebenen Schema. Das Protokoll sieht dazu vier Schritte vor:
