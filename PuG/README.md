@@ -7,6 +7,7 @@
     - [Struktur des Grundgesetzes](#struktur-des-grundgesetzes)
       - [**Das Grundgesetzt**](#das-grundgesetzt)
   - [Das Menschenbild des Grundgesetzes und die Grundrechte](#das-menschenbild-des-grundgesetzes-und-die-grundrechte)
+  - [Zusammenfassung für Kurzarbeit](#zusammenfassung-für-kurzarbeit)
 
 ## Der Rechtsstaat - 05.10.2021
 
@@ -137,4 +138,5 @@ In den ersten Artikeln (1 bis 19) des Grundgesetzes sind die Grundrechte der Bü
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - Versammlungsfreiheit<br>- Vereins- und Vereinigungsfreiheit<br>- Freizügigkeit<br>- Berufswahlfreiheit und freie Wahl der Ausbildungsstätte und des Arbeitsplatzes<br>- Ausbürgerungsverbot<br>- Auslieferungsverbot | - Widerstandsrecht (Art. 20)<br>- freie Parteiengründung (Art. 21)<br>- Recht auf Zugang zu öffentlichen Ämtern (Art. 33)<br>- Wahlrecht (Art. 38)<br>- Recht auf gesetzlichen Richter (Art. 101)<br>- Anspruch auf rechtliches Gehör vor Gericht (Art. 103)<br>- Schutz vor willkürlicher Verhaftung (Art. 104) |
 
+[Zusammenfassung für Kurzarbeit](./zusammenfassung_block1.md)
 ---
