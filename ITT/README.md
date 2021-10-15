@@ -101,9 +101,10 @@ allgemeine IT-Sicherheit für das System (z. B. Updates müssen regelmäßig gem
 | variante 1 | variante 2 |
 | --- | ---|
 | touch b3.txt <br> vi b3.txt <br> ESC i <br> Hallo Welt! <br> ESC :wq | Cat > b3.txt <br> Hallo Welt! <br> Eingabe CTRL+C |
+
 1. Benennen Sie die Datei b3.txtin les.txt um:\
    mv b3.txt les.txt
 2. Erstellen Sie eine Kopie der Datei les.txtund benennen Sie diese les-kopie.txt\
     cp les.txt les-lopie.txt
-3.  Wie müssen Sie den Befehl anpassen, wenn die Kopie les-kopie.txtim übergeordneten Ordner kopiert werden soll?\
+3. Wie müssen Sie den Befehl anpassen, wenn die Kopie les-kopie.txtim übergeordneten Ordner kopiert werden soll?\
     cp lex.txt ../les-kopie.txt

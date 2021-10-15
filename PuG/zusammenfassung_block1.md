@@ -73,7 +73,7 @@ Menschenrechte gelten für **alle Menschen**
 
 |Freiheitsrechte|Soziale Rechte|
 |--|--|
-| - Freiheit von Kunst, Wissenschaft, Forschung und Lehre (Art.5)<br> - Petitionsrecht (Art.17)<br> - Recht zur freien Entfaltung der Persönlichkeit und Freiheit der Person <br> - Glaubens- und Gewissensfreiheit  | - Schutz von Ehe und Familie (Art. 6) <br> - Anspruch jeder Mutter auf Schutz und Fürsorge durch den Staat (Art.6) <br> - Recht zur Errichtung von privaten Schulen (Art. 7) <br> - Koalitionsfreiheit (Art. 9) <br> - Aylrecht (Art. 16)
+| - Freiheit von Kunst, Wissenschaft, Forschung und Lehre (Art.5)<br> - Petitionsrecht (Art.17)<br> - Recht zur freien Entfaltung der Persönlichkeit und Freiheit der Person <br> - Glaubens- und Gewissensfreiheit  | - Schutz von Ehe und Familie (Art. 6) <br> - Anspruch jeder Mutter auf Schutz und Fürsorge durch den Staat (Art.6) <br> - Recht zur Errichtung von privaten Schulen (Art. 7) <br> - Koalitionsfreiheit (Art. 9) <br> - Asylrecht (Art. 16)
 |**Gleichheitsrechte** |**Unverletzlichkeitsrechte**|
 |- Gleichheit aller Menschen vor dem Gesetz<br>- Gleichberechtigung von Mann und Frau<br>- Chancengleichheit<br>- Gleichstellung von außerehelichen und ehelichen Kindern|- Recht auf Leben und körperliche Unversehrtheit (Art. 2)<br>- Gewährleistung von Eigentum (Art. 14)<br>- Unverletzlichkeit des Brief-, Post-und Fernmeldegeheimnisses (Art. 10)<br>- Unverletzlichkeit der Wohnung (Art. 13)|
 
