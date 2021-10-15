@@ -1,4 +1,6 @@
-# Klassenrepository der IF11C
+# **DEPRICATED use [myLogic207.github.io](myLogic207.github.io) instead**
+
+## Klassenrepository der IF11C
 
 [Feedback](https://forms.gle/efXCc41bpAw2JcBz9)
 [Spenden](https://ko-fi.com/myLogic207)
