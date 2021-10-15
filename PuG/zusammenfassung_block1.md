@@ -6,21 +6,21 @@ Dreielementenlehre: Staatsgewalt, Staatsgebiet und Staatsvolk als Voraussetzunge
 
 ### Aufgaben des Staats
 
-1. Äußere Sicherheit
+1. Äußere Sicherheit\
    Beziehungen zu anderen Staaten & Militär
-2. Innere Sicherheit
+2. Innere Sicherheit\
    Polizei und Gerichte verhindern Chaos
-3. Rechtsordnung
+3. Rechtsordnung\
    Gesetze garantieren Gerechtigkeit und Rechtssicherheit
-4. Daseinsvorsorge
+4. Daseinsvorsorge\
    Staatliche Einrichtungen erhöhen den Lebensstandard (z.B. Theater, Schulen, Krankenhäuser, etc.)
-5. Soziale Sicherheit
+5. Soziale Sicherheit\
    Hilfe für benachteiligte Bevölkerungsgruppen (Alte, Arbeitslose, etc.)
-6. Förderung der wirtschaftlichen Entwicklung
+6. Förderung der wirtschaftlichen Entwicklung\
    Konjunkturprogramme, Subventionen, etc.
-7. Schutz der Lebensgrundlagen
+7. Schutz der Lebensgrundlagen\
    Aktive Umweltpolitik des Staats
-8. Verwaltung
+8. Verwaltung\
    Leistungsverwaltung durch den Staat z.B. Sozialhilfe
 
 ## Grundgesetz (24.5.1949)
@@ -56,13 +56,13 @@ Die Grundrechte können *nie* geändert werden, sie sind unumstößlich festgesc
 9. Recht auf Gründung eines Vereins/einer Gewerkschaft
 10. Postgeheimnis
 11. Recht auf Freizügigkeit
-12. Recht auf freie Berufswahl, Schutz vor Zwangsarbeit<br>
-12a. Wehrpflicht ab 18. Lebensjahr
+12. Recht auf freie Berufswahl, Schutz vor Zwangsarbeit\
+   12a. Wehrpflicht ab 18. Lebensjahr
 13. Recht auf Unverletzlichkeit der Wohnung
 14. Recht auf Eigentum und Erbe
 15. Grund und Boden können vom Staat in die Gemeinwirtschaft überführt werden
-16. Die Staatsbürgerschaft darf nicht entzogen werden, Auslieferungsverbot<br>
-16a. Asylrecht für alle politisch Verfolgten
+16. Die Staatsbürgerschaft darf nicht entzogen werden, Auslieferungsverbot\
+   16a. Asylrecht für alle politisch Verfolgten
 17. Beschwerde-/Bittrecht bei Volksvertretung
 18. Bestrafung der Grundrechte
 19. Einschränkung der Grundrechte - Wesensgehalt darf nicht verletzt werden
@@ -73,10 +73,8 @@ Menschenrechte gelten für **alle Menschen**
 
 |Freiheitsrechte|Soziale Rechte|
 |--|--|
-| - Freiheit von Kunst, Wissenschaft, Forschung und Lehre (Art.5)<br> - Petitionsrecht (Art.17)<br> - Recht zur freien Entfaltung der Persönlichkeit und Freiheit der Person <br> - Glaubens- und Gewissensfreiheit  | - Schutz von Ehe und Familie (Art. 6) <br> - Anspruch jeder Mutter auf Schutz und Fürsorge durch den Staat (Art.6) <br> - Recht zur Errichtung von privaten Schulen (Art. 7) <br> - Koalitionsfreiheit (Art. 9) <br> - Aylrecht (Art. 16)|
-
-|Gleichheitsrechte |Unverletzlichkeitsrechte|
-|--|--|
+| - Freiheit von Kunst, Wissenschaft, Forschung und Lehre (Art.5)<br> - Petitionsrecht (Art.17)<br> - Recht zur freien Entfaltung der Persönlichkeit und Freiheit der Person <br> - Glaubens- und Gewissensfreiheit  | - Schutz von Ehe und Familie (Art. 6) <br> - Anspruch jeder Mutter auf Schutz und Fürsorge durch den Staat (Art.6) <br> - Recht zur Errichtung von privaten Schulen (Art. 7) <br> - Koalitionsfreiheit (Art. 9) <br> - Aylrecht (Art. 16)
+|**Gleichheitsrechte** |**Unverletzlichkeitsrechte**|
 |- Gleichheit aller Menschen vor dem Gesetz<br>- Gleichberechtigung von Mann und Frau<br>- Chancengleichheit<br>- Gleichstellung von außerehelichen und ehelichen Kindern|- Recht auf Leben und körperliche Unversehrtheit (Art. 2)<br>- Gewährleistung von Eigentum (Art. 14)<br>- Unverletzlichkeit des Brief-, Post-und Fernmeldegeheimnisses (Art. 10)<br>- Unverletzlichkeit der Wohnung (Art. 13)|
 
 ### Bürgerrechte

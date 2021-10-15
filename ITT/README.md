@@ -12,6 +12,7 @@
     - [**Robustheit**](#robustheit)
     - [**Härtung**](#härtung)
     - [**Besonderheiten/Unterschiede zwischen Linux und Windows**](#besonderheitenunterschiede-zwischen-linux-und-windows)
+  - [Linux für dummies](#linux-für-dummies)
 
 ## Klassenmitschrift IF11C IT-TEC11
 
@@ -78,3 +79,31 @@ allgemeine IT-Sicherheit für das System (z. B. Updates müssen regelmäßig gem
 - Arbeiten in der Shell
 - sudo (Befehl, um den darauf folgenden Befehl als Admin auszuführen)
 - Hardware wird auch als Dateien abgelegt
+
+## Linux für dummies
+
+[Dieses Arbeitsblatt](./resources/120_AB_Unix-Grundbefehle_SuS.pdf)
+
+1. Welche Benutzer sind auf dem System angemeldet?\
+   last
+2. Mit welcher Kennung sind sie angemeldet?
+  whoami
+3. An welchem Verzeichnispfad befinden Sie sich gerad?
+  pwd
+4. Lassen Sie sich den Inhalt des aktuellen Verzeichnisses anzeigen!\
+  ls
+5. Erstellen Sie das Unterverzeichnis cpsim aktuellen Verzeichnis und überprüfen Sie,ob dies erstellt wurde\
+  mkdir cps/
+6. Welche Unterverzeichnisse gib es in /Documents?\
+   ls
+7. Erstellen Sie im Verzeichnis /Documents/cpseine Datei namens b3.txtmit dem Inhalt „Hallo Welt!“\
+
+| variante 1 | variante 2 |
+| --- | ---|
+| touch b3.txt <br> vi b3.txt <br> ESC i <br> Hallo Welt! <br> ESC :wq | Cat > b3.txt <br> Hallo Welt! <br> Eingabe CTRL+C |
+1. Benennen Sie die Datei b3.txtin les.txt um:\
+   mv b3.txt les.txt
+2. Erstellen Sie eine Kopie der Datei les.txtund benennen Sie diese les-kopie.txt\
+    cp les.txt les-lopie.txt
+3.  Wie müssen Sie den Befehl anpassen, wenn die Kopie les-kopie.txtim übergeordneten Ordner kopiert werden soll?\
+    cp lex.txt ../les-kopie.txt
